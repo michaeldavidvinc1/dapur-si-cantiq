@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'chikery-icon';
+  src:  url('fonts/chikery-iconb5b7.eot?9xhahh');
+  src:  url('fonts/chikery-iconb5b7.eot?9xhahh#iefix') format('embedded-opentype'),
+    url('fonts/chikery-iconb5b7.ttf?9xhahh') format('truetype'),
+    url('fonts/chikery-iconb5b7.woff?9xhahh') format('woff'),
+    url('fonts/chikery-iconb5b7.svg?9xhahh#chikery-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="chikery-"], [class*=" chikery-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'chikery-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.chikery-bk1:before {
+  content: "\f900";
+  color: #ce873a;
+}
+.chikery-bk2:before {
+  content: "\f901";
+  color: #ce873a;
+}
+.chikery-bk3:before {
+  content: "\f902";
+  color: #ce873a;
+}
+.chikery-bk4:before {
+  content: "\f903";
+  color: #ce873a;
+}
+.chikery-bk5:before {
+  content: "\f904";
+  color: #ce873a;
+}
+.chikery-tt1:before {
+  content: "\f905";
+  color: #ce873a;
+}
+.chikery-tt2:before {
+  content: "\f906";
+  color: #ce873a;
+}
+.chikery-tt3:before {
+  content: "\f907";
+  color: #ce873a;
+}
+.chikery-tt4:before {
+  content: "\f908";
+  color: #ce873a;
+}
+.chikery-tt5:before {
+  content: "\f909";
+  color: #ce873a;
+}
